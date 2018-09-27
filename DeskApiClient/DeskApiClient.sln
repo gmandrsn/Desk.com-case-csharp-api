@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskApiClient", "DeskApiClient.csproj", "{A2F294A3-9312-46D8-BAB4-F18B7B2CABDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskApiClient.Tests", "..\DeskApiClient.Tests\DeskApiClient.Tests.csproj", "{C6ABEC95-2E99-49DE-9317-51BFAE8F91FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F294A3-9312-46D8-BAB4-F18B7B2CABDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F294A3-9312-46D8-BAB4-F18B7B2CABDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F294A3-9312-46D8-BAB4-F18B7B2CABDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F294A3-9312-46D8-BAB4-F18B7B2CABDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6ABEC95-2E99-49DE-9317-51BFAE8F91FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ABEC95-2E99-49DE-9317-51BFAE8F91FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ABEC95-2E99-49DE-9317-51BFAE8F91FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ABEC95-2E99-49DE-9317-51BFAE8F91FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
